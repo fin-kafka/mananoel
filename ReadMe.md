@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 	<a href="https://github.com/mananoel">
-		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mananoel&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
+		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mastercodercat&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/mananoel">
 		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mananoel&show_icons=true&count_private=true&hide=prs&include_all_commits=true&line_height=29&theme=dracula" alt="mananoel's Github Stats" />
