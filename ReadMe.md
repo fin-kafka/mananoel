@@ -15,11 +15,6 @@
 ## My GitHub Stats 📊
 
 <p align="center">
-	<a href="https://github.com/wannacfuture">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mananoel&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
-	</a>
-</p>
-<p align="center">
 	<a href="https://github.com/mananoel">
 		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mastercodercat&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
